@@ -41,7 +41,7 @@ def check_port(target_domain, target_port):
 
 
 # ตั้งค่าตัวแปร
-target_domain = "www1.se-rmutl.net"  # เปลี่ยนเป็นชื่อโดเมนของเป้าหมาย
+target_domain = "www.example.com"  # เปลี่ยนเป็นชื่อโดเมนของเป้าหมาย
 target_port = 443  # เปลี่ยนเป็นพอร์ตที่ต้องการโจมตี (เช่น 80 สำหรับ HTTP)
 
 # ตรวจสอบว่าเซิร์ฟเวอร์เปิดพอร์ตหรือไม่
